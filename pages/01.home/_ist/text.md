@@ -1,5 +1,5 @@
 ---
-title: ist
+title: ABOUT
 image_align: left
 backcolor: 'rgba(63, 70, 163, 0.71)'
 ---
