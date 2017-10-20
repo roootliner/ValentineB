@@ -1,5 +1,5 @@
 ---
-title: contact
+title: HIRE
 form:
     name: contact
     fields:
