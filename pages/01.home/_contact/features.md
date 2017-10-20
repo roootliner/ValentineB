@@ -1,7 +1,7 @@
 ---
 title: HIRE
 form:
-    name: contact
+    name: hire
     fields:
         -
             name: name
