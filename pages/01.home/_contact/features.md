@@ -60,4 +60,4 @@ form:
             display: thankyou
 ---
 
-# contact
+# HIRE
