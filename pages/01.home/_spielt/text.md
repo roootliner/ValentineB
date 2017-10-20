@@ -1,5 +1,5 @@
 ---
-title: spielt
+title: .
 image_align: left
 ---
 

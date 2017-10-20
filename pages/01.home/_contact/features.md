@@ -1,7 +1,7 @@
 ---
-title: HIRE
+title: Contact
 form:
-    name: hire
+    name: contact
     fields:
         -
             name: name
@@ -60,4 +60,4 @@ form:
             display: thankyou
 ---
 
-# HIRE
+# Contact
