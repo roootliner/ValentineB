@@ -1,5 +1,5 @@
 ---
-title: .
+title: ABOUT
 image_align: left
 ---
 
