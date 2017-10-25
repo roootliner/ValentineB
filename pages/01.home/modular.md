@@ -1,11 +1,10 @@
 ---
-title: One Page Demo Site
+title: ValentineB
 menu: Home
 onpage_menu: true
-body_classes: "modular header-image fullwidth"
-
+body_classes: 'modular header-image fullwidth'
 content:
-    items: @self.modular
+    items: '@self.modular'
     order:
         by: default
         dir: asc
@@ -15,5 +14,5 @@ content:
             - _ist
             - _listen
             - _contact
-            
 ---
+
