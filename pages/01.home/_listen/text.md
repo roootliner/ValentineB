@@ -1,5 +1,6 @@
 ---
 title: LISTEN
+image_align: left
 backcolor: 'rgba(52, 219, 152, 0.71)'
 ---
 
