@@ -4,7 +4,6 @@ image_align: left
 ---
 
 ## valentineB. spielt
------
 jazz not jazz. Jazz tropical. Entspannen Sie sich. Denken Sie an einen eisgekühlten Drink an einem
 heißen Sommertag. Hören Sie einfach zu – hot music on the rocks. Als Grundlage für unseren Mix
 verwenden wir einen satten Schuss Jazz. Wir verwenden die geschmackvolle, geistreiche Sorte. Dazu
