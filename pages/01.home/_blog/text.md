@@ -1,5 +1,7 @@
 ---
 title: BLOG
+image_align: left
+backcolor: '#f2b6fa'
 ---
 
 ## news ...
