@@ -1,5 +1,5 @@
 ---
-title: Impressum
+title: IMPRESSUM
 image_align: left
 ---
 
@@ -8,7 +8,6 @@ Impressum
 Felix Schirmer
 Fischer-von-Erlach-Str. 1
 06114 Halle (Saale)
-
 Telefon: 0179 2331291
 E-Mail: Felix.Schirmer(at)gmx.de
 
