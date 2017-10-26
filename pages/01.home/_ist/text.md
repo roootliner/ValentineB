@@ -5,7 +5,6 @@ backcolor: 'rgba(63, 70, 163, 0.71)'
 ---
 
 ## valentineB. ist
---
 eine Formation aus Profimusikern und Liebhabern (Amateuren), die sich regelmäßig unter dem Vorwand
 purer Freude am gemeinsamen Musizieren von Ihren Frauen (in der Regel toleriert) und aus dem
 Hause entfernen, um dem alltäglichen Akademikerdasein für ein paar liebliche Stunden zu entfliehen.
