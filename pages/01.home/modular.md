@@ -15,4 +15,5 @@ content:
             - _listen
             - _blog
             - _contact
+            - _impressum
 ---
