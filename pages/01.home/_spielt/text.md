@@ -1,6 +1,7 @@
 ---
 title: ABOUT
 image_align: left
+backcolor: '#e6b99a'
 ---
 
 ## valentineB. spielt
