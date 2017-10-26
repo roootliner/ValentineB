@@ -1,5 +1,5 @@
 ---
-title: Artists
+title: ARTISTS
 image_align: left
 backcolor: 'rgba(63, 70, 163, 0.71)'
 ---
