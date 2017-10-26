@@ -1,7 +1,7 @@
 ---
 title: ARTISTS
 image_align: left
-backcolor: 'rgba(24, 35, 186, 0.00)'
+backcolor: 'rgba(196, 2, 18, 1.00)'
 ---
 
 ## valentineB. ist
