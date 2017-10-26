@@ -3,6 +3,6 @@ title: 'Homepage Showcase'
 menu: Top
 ---
 
-# ![Valentine B](schrift.svg)&nbsp;[![](playb.svg?resize=50,50)](De%20La%20Soul%20-%20Ring%20Ring%20Ring%20%28Ha%20Ha%20Hey%29_test.mp3)
-## jazz not jazz. jazz tropical.
+# ![Valentine B](schrift.svg)&nbsp;
+## jazz&nbsp;not&nbsp;jazz.&nbsp;jazz&nbsp;tropical.
 REAL MUSIC & ENTETAINMENT FOR YOUR HOUSE AND GARDENPARTYS, WEDDING CEREMONIALS, EVENTS AND OPENINGS, CONFERENCES

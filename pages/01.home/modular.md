@@ -13,6 +13,6 @@ content:
             - _spielt
             - _ist
             - _listen
+            - _blog
             - _contact
 ---
-
