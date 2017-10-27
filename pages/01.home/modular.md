@@ -14,6 +14,6 @@ content:
             - _ist
             - _listen
             - _blog
-            - _contact
+            - _hire
             - _impressum
 ---

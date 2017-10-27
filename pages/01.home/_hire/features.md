@@ -1,12 +1,13 @@
 ---
 title: HIRE
+body_classes: testclass
 form:
-    name: contact
+    name: HIRE
     fields:
         -
             name: name
             label: Name
-            placeholder: 'Enter your name'
+            placeholder: Name
             autocomplete: 'on'
             type: text
             validate:
@@ -14,14 +15,14 @@ form:
         -
             name: email
             label: Email
-            placeholder: 'Enter your email address'
+            placeholder: 'email address'
             type: email
             validate:
                 required: true
         -
             name: message
             label: Message
-            placeholder: 'Enter your message'
+            placeholder: Message
             type: textarea
             validate:
                 required: true
@@ -37,9 +38,6 @@ form:
         -
             type: submit
             value: Submit
-        -
-            type: reset
-            value: Reset
     process:
         -
             captcha:
@@ -50,7 +48,7 @@ form:
                 body: '{% include ''forms/data.html.twig'' %}'
         -
             save:
-                fileprefix: contact-
+                fileprefix: hire-
                 dateformat: Ymd-His-u
                 extension: txt
                 body: '{% include ''forms/data.txt.twig'' %}'
@@ -60,4 +58,4 @@ form:
             display: thankyou
 ---
 
-# Contact
+## Contact
