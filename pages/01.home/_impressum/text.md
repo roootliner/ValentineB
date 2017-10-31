@@ -5,17 +5,17 @@ image_align: left
 
 Impressum
 
-Felix Schirmer
-Fischer-von-Erlach-Str. 1
+Christian Hagendorf
+Mühlweg 22 
 06114 Halle (Saale)
 
-Telefon: 0179 2331291
-E-Mail: Felix.Schirmer(at)gmx.de
+Telefon +49 345 5170767
+E-Mail: christian.hagendorf(at)t-online.de
 
 
 **Hinweis gemäß Online-Streitbeilegungs-Verordnung**
  
-Nach geltendem Recht sind wir verpflichtet, Verbraucher auf die Existenz der Europäischen Online-Streitbeilegungs-Plattform hinzuweisen, die für die Beilegung von Streitigkeiten genutzt werden kann, ohne dass ein Gericht eingeschaltet werden muss. Für die Einrichtung der Plattform ist die Europäische Kommission zuständig. Die Europäische Online-Streitbeilegungs-Plattform ist hier zu finden: http://ec.europa.eu/odr. Unsere E-Mail lautet: muster@muster.de
+Nach geltendem Recht sind wir verpflichtet, Verbraucher auf die Existenz der Europäischen Online-Streitbeilegungs-Plattform hinzuweisen, die für die Beilegung von Streitigkeiten genutzt werden kann, ohne dass ein Gericht eingeschaltet werden muss. Für die Einrichtung der Plattform ist die Europäische Kommission zuständig. Die Europäische Online-Streitbeilegungs-Plattform ist hier zu finden: http://ec.europa.eu/odr. Unsere E-Mail lautet: christian.hagendorf(at)t-online.de
 
 Wir weisen aber darauf hin, dass wir nicht bereit sind, uns am Streitbeilegungsverfahren im Rahmen der Europäischen Online-Streitbeilegungs-Plattform zu beteiligen. Nutzen Sie zur Kontaktaufnahme bitte unsere obige E-Mail und Telefonnummer.
 
