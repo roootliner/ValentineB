@@ -1,6 +1,5 @@
 ---
 title: HIRE
-body_classes: testclass
 form:
     name: HIRE
     fields:
