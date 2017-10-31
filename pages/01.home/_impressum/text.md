@@ -3,7 +3,7 @@ title: IMPRESSUM
 image_align: left
 ---
 
-Impressum
+## Impressum
 
 Christian Hagendorf
 Mühlweg 22 
