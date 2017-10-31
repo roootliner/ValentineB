@@ -3,11 +3,12 @@ title: IMPRESSUM
 image_align: left
 ---
 
-**Impressum**
+## Impressum
 
 Christian Hagendorf
 
 Mühlweg 22
+
 06114 Halle (Saale)
 
 Telefon +49 345 5170767
