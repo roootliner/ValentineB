@@ -57,4 +57,4 @@ form:
             display: thankyou
 ---
 
-## Contact
+## Kontakt
