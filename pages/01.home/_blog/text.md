@@ -4,10 +4,21 @@ image_align: left
 backcolor: '#f2b6fa'
 ---
 
-## news ...
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Neuigkeiten ...
+ValentineB spielt Jazz Tropical im Brohmers/Halle
+am 24.11.2017 ab 20.00 Uhr
 
 ---
 
-## more news ...
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Noch mehr Neuigkeiten ...
+ValentineB spielt für Karamba Diaby im Volkspark/Halle (geschlossene Veranstaltung)
+am 25.11.2017 ab 19.30 Uhr
+
+BV Hauskonzert mit Christian, Ivo und Felix (geschlossene Veranstaltung)
+am 27.11.2017 ab 20.00 Uhr
+
+ValentineB im Los Andes/Halle (geschlossene Veranstaltung)
+am 2.12.2017 ab 21.00 Uhr
+
+ValentineB in der Brasserie Steintor/Halle (geschlossene Veranstaltung)
+am 16.12.2017 ab 21.00 Uhr
