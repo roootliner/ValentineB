@@ -59,4 +59,3 @@ form:
 
 ## Kontakt
 
-christian.hagendorf(at)t-online.de
