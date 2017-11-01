@@ -15,7 +15,7 @@ form:
         -
             name: email
             label: Email
-            placeholder: 'email address'
+            placeholder: christian.hagendorf@t-online.de
             type: email
             validate:
                 required: true
