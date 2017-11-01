@@ -1,6 +1,8 @@
 ---
 title: IMPRESSUM
 image_align: left
+metadata:
+    class: impressum
 ---
 
 ## Impressum
