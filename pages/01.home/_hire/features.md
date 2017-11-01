@@ -30,7 +30,7 @@ form:
             name: g-recaptcha-response
             label: Captcha
             type: captcha
-            recaptcha_site_key: ENTER_YOUR_CAPTCHA_SITE_KEY
+            recaptcha_site_key: 6Lff0jYUAAAAAGAWe33NbyusGGeBRcFZ9WtP8MWm
             recaptcha_not_validated: 'Captcha not valid!'
             validate:
                 required: true
@@ -41,7 +41,7 @@ form:
     process:
         -
             captcha:
-                recaptcha_secret: ENTER_YOUR_CAPTCHA_SECRET_KEY
+                recaptcha_secret: 6Lff0jYUAAAAAGXxoxhcDWJcbcjmSEdnhBrPZL6m
         -
             email:
                 subject: '[Site Contact Form] {{ form.value.name|e }}'
