@@ -4,7 +4,7 @@ image_align: left
 backcolor: 'rgba(162, 189, 161, 1.00)'
 ---
 
-## valentineB. ist
+## valentine.B ist
 eine Formation aus Profis und Liebhabern. Durch die pure Freude am gemeinsamen Musizieren entlocken die Herren dem alltäglich Dasein immer wieder liebliche Stunden und herrliche Grooves. 
 
 Die Musiker fanden sich 1996 unter dem Namen Blue Valentine zusammen und hatten von Anfang an großes Vergnügen an Liveauftritten. Über die Jahre hat die Band zu ihrem unverwechselbaren Sound, der stimmigen Besetzung und dem charmanten Outfit gefunden. Seither wird das Ensemble sogar in den Spielpausen als ein unentbehrliches Requisit geschätzt.
