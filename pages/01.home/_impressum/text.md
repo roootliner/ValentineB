@@ -6,13 +6,9 @@ class: impressum
 
 ## Impressum
 
-Christian Hagendorf<br>Mühlweg 22
+Christian Hagendorf<br>Mühlweg 22<br>06114 Halle (Saale)
 
-06114 Halle (Saale)
-
-Telefon +49 345 5170767
-
-E-Mail: christian.hagendorf(at)t-online.de
+Telefon +49 345 5170767<br>E-Mail: christian.hagendorf(at)t-online.de
 
 
 
