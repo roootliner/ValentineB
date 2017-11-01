@@ -6,9 +6,7 @@ class: impressum
 
 ## Impressum
 
-Christian Hagendorf
-
-Mühlweg 22
+Christian Hagendorf<br>Mühlweg 22
 
 06114 Halle (Saale)
 
