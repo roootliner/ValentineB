@@ -1,5 +1,6 @@
 ---
 title: KONTAKT
+template: modular/form
 form:
     name: HIRE
     fields:
