@@ -1,5 +1,6 @@
 ---
 title: 'Homepage Showcase'
+media_order: 'playb.svg,schowcase.jpg,schrift.svg'
 menu: Top
 ---
 
