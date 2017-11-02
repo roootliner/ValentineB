@@ -5,9 +5,9 @@ content:
     order:
         by: date
         dir: desc
-    limit: '5'
-    pagination: '1'
-    url_taxonomy_filters: '1'
+    limit: 5
+    pagination: true
+    url_taxonomy_filters: true
 ---
 
 die Nachricht wurde versendet!
