@@ -44,7 +44,7 @@ form:
                 recaptcha_secret: 6Lff0jYUAAAAAGXxoxhcDWJcbcjmSEdnhBrPZL6m
         -
             email:
-                subject: '[Site Contact Form] {{ form.value.name|e }}'
+                subject: 'Nachricht von {{ form.value.name|e }}'
                 body: '{% include ''forms/data.html.twig'' %}'
         -
             save:
@@ -53,7 +53,7 @@ form:
                 extension: txt
                 body: '{% include ''forms/data.txt.twig'' %}'
         -
-            message: 'Danke für die nachricht'
+            message: 'Danke für die Nachricht'
         -
             display: thankyou
 ---
