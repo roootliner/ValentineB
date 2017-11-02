@@ -53,10 +53,9 @@ form:
                 extension: txt
                 body: '{% include ''forms/data.txt.twig'' %}'
         -
-            message: 'Thank you for getting in touch!'
+            message: 'Danke für die nachricht'
         -
             display: thankyou
 ---
 
 ## Kontakt
-
