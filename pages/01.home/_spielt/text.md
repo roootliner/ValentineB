@@ -1,7 +1,7 @@
 ---
 title: MUSIK
 image_align: left
-backcolor: '#8989a3'
+backcolor: '#b6b6ba'
 ---
 
 ## **valentine.B spielt**
