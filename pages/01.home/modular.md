@@ -1,8 +1,5 @@
 ---
-title: ValentineB
-menu: Home
-onpage_menu: true
-body_classes: 'modular header-image fullwidth'
+title: valentine.B
 content:
     items: '@self.modular'
     order:
@@ -16,4 +13,8 @@ content:
             - _blog
             - _hire
             - _impressum
+body_classes: 'modular header-image fullwidth'
+menu: Home
+onpage_menu: true
 ---
+
