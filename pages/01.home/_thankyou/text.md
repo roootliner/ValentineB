@@ -1,4 +1,0 @@
----
-image_align: left
----
-

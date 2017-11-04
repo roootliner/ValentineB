@@ -1,3 +1,4 @@
 ---
-body_classes: modular
+body_classes: modular thankyou fullwidth
+image_align: right
 ---

@@ -55,7 +55,7 @@ form:
         -
             message: 'Danke für die Nachricht'
         -
-            display: /01.home/_thankyou
+            display: thankyou
 ---
 
 ## Kontakt

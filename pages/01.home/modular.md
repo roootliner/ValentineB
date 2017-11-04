@@ -17,4 +17,3 @@ body_classes: 'modular header-image fullwidth'
 menu: Home
 onpage_menu: true
 ---
-
