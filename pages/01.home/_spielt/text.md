@@ -5,7 +5,6 @@ backcolor: '#fa685a'
 ---
 
 ## **valentine.B spielt**
----
 **jazz not jazz. jazz tropical.**<br>
 Ein eisgekühlter Drink an einem heißen Sommertag. Hot music on the rocks.<br>
 Wir verwenden einen satten Schuss Jazz. Dazu kommen die Latins: sweet Samba, rassiger Bossa, tropical Calypso oder hot Salsa. Chachacha! Soul Syrup bringt den typischen Geschmack mit etwas Blues Bitter on top. <br>
