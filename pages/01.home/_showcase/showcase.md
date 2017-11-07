@@ -5,5 +5,4 @@ menu: Top
 ---
 
 # ![Valentine B](schrift.svg)&nbsp;
-
-REAL MUSIC & ENTERTAINMENT FÜR IHRE GARTENPARTYS, HOCHZEITEN, EVENTS UND KONFERENZEN
+Real Music & Entertainment für Ihre Gartenpartys, Hochzeiten, Events und Konferenzen

@@ -13,6 +13,7 @@ content:
             - _blog
             - _hire
             - _impressum
+          
 body_classes: 'modular header-image fullwidth'
 menu: Home
 onpage_menu: true
