@@ -1,15 +1,15 @@
 ---
-title: BLOG
+title: NEUES
 image_align: left
 backcolor: '#f2b6fa'
 ---
 
-## Neuigkeiten ...
+## **Demnächst …**
 valentine.B spielt jazz tropical im Brohmers/Halle<br>am 24.11.2017 ab 20.00 Uhr
 
 ---
 
-## Noch mehr Neuigkeiten ...
+## **und dann …**
 valentine.B spielt für Karamba Diaby im Volkspark/Halle (geschlossene Veranstaltung)<br>am 25.11.2017 ab 19.30 Uhr
 
 BV Hauskonzert mit Christian, Ivo und Felix (geschlossene Veranstaltung)<br>am 27.11.2017 ab 20.00 Uhr
