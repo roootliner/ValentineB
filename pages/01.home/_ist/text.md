@@ -1,7 +1,7 @@
 ---
 title: BAND
 image_align: left
-backcolor: 'rgba(162, 189, 161, 1.00)'
+backcolor: '#00cc66'
 ---
 
 ## **valentine.B ist …**
