@@ -8,7 +8,6 @@ backcolor: '#3e51db'
 ## **Demnächst …**
 valentine.B spielt jazz tropical im Brohmers/Halle<br>am 24.11.2017 ab 20.00 Uhr
 
----
 
 ## **und dann …**
 valentine.B spielt für Karamba Diaby im Volkspark/Halle (geschlossene Veranstaltung)<br>am 25.11.2017 ab 19.30 Uhr
