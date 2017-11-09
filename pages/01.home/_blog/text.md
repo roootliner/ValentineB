@@ -1,6 +1,6 @@
 ---
 title: NEUES
-media_order: 'alex.jpg,07_ivoN.jpg'
+media_order: 'alex.jpg,IMG_0422_schwellepalmen.jpg,07_ivoN.jpg'
 image_align: left
 backcolor: '#3e51db'
 ---
