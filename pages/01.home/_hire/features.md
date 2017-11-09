@@ -16,14 +16,14 @@ form:
         -
             name: email
             label: Email
-            placeholder: 'Email adress'
+            placeholder: 'Email Adresse'
             type: email
             validate:
                 required: true
         -
             name: message
             label: Message
-            placeholder: Message
+            placeholder: Nachricht
             type: textarea
             validate:
                 required: true
