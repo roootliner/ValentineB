@@ -13,7 +13,7 @@ Telefon +49 345 5170767<br>E-Mail: christian.hagendorf(at)t-online.de
 Verantwortlich für den Inhalt der Seite:<br>
 Christian Hagendorf
 
-Fotos:
+Fotos: Raisa Galofre<br>technische Realisierung: eckartroeber.de
 
 
 **Hinweis gemäß Online-Streitbeilegungs-Verordnung**
