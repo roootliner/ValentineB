@@ -6,6 +6,8 @@ backcolor: '#3e51db'
 ---
 
 ## **Demnächst …**
+Joyeux Noel!
+
 valentine.B übt im Januar 2018
 
 ## **und dann …**
