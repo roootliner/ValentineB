@@ -13,4 +13,6 @@ valentine.B übt im Januar 2018
 ## **und dann …**
 valentine.B in Halle zum Neuro Symposium 2018 (geschlossene Veranstaltung)<br>am 20.1.2018 ab 21.00 Uhr
 
-valentine.B in der Moritzbastei zum LINC Kongress (geschlossene Veranstaltung)<br>am 1.2.2017 ab 21.00 Uhr
+valentine.B in der Moritzbastei/Leipzig zum LINC Kongress (geschlossene Veranstaltung)<br>am 1.2.2017 ab 21.00 Uhr
+
+valentine.B im Los Andes/Halle<br>am 24.2.2018 ab 21.00 Uhr
