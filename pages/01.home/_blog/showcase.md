@@ -6,12 +6,8 @@ backcolor: '#3e51db'
 ---
 
 ## **Demnächst …**
-Joyeux Noel!
-
-valentine.B übt im Januar 2018
+valentine.B in der Moritzbastei/Leipzig zum LINC Kongress (geschlossene Veranstaltung)<br>am 1.2.2017 ab 21.00 Uhr
 
 ## **und dann …**
-
-valentine.B in der Moritzbastei/Leipzig zum LINC Kongress (geschlossene Veranstaltung)<br>am 1.2.2017 ab 21.00 Uhr
 
 valentine.B im Los Andes/Halle<br>am 24.2.2018 ab 21.00 Uhr
