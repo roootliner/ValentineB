@@ -5,7 +5,6 @@ image_align: left
 backcolor: '#3e51db'
 ---
 
-
 ## **Demnächst …**
 
 valentine.B in Leipzig (geschlossene Veranstaltung)<br>am 24.2.2018
