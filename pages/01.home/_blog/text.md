@@ -7,8 +7,8 @@ backcolor: '#3e51db'
 
 ## **Demnächst …**
 
-valentine.B in Leipzig (geschlossene Veranstaltung)<br>am 24.2.2018
+valentine.B in Berlin (geschlossene Veranstaltung)<br>am 21.6.2018
 
 ## **und dann …**
 
-valentine.B im Los Andes/Halle<br>im März
+valentine.B im Los Andes/Halle<br>im Juli
