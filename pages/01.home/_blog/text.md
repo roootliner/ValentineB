@@ -7,8 +7,10 @@ backcolor: '#3e51db'
 
 ## **Demnächst …**
 
-valentine.B in Berlin (geschlossene Veranstaltung)<br>am 21.6.2018
+valentine.B ist in den Ferien 
 
 ## **und dann …**
 
-valentine.B im Los Andes/Halle<br>im Juli
+valentine.B in Dölau (geschlossene Veranstaltung)<br>am 18.8.2018
+valentine.B in ??? (geschlossene Veranstaltung)<br>am 24.08.2018
+valentine.B im Saalekiez (geschlossenes Veranstaltung)<br>am 29.09.2018
