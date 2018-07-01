@@ -5,7 +5,7 @@ image_align: left
 backcolor: '#3e51db'
 ---
 
-## **Valentine.B war …**
+## **valentine.B war …**
 
 ... der zentrale Teil einer für mich wundervollen Party-Nacht. Ganz herzlichen Dank und Euch alle 5. Ihr seid und bleibt meine hallesche Lieblingsband - und die nächst Party kann keinesfalls ohne Euch ablaufen!
 
