@@ -11,7 +11,7 @@ content:
             - _ist
             - _listen
             - _blog
-            - _blog_2
+            - _blog-2
             - _hire
             - _impressum
 body_classes: 'modular header-image fullwidth'
