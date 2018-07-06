@@ -2,7 +2,7 @@
 title: TERMINE
 media_order: 'alex.jpg,IMG_0422_schwellepalmen.jpg,07_ivoN.jpg,Max_Mendez - Valentine_B. - Konsum_2018_62A8922.jpeg,67.jpeg'
 image_align: left
-backcolor: '#090504'
+backcolor: '#3e51db'
 routable: true
 visible: true
 template: modular/text
