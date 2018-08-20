@@ -3,8 +3,6 @@ title: valentine.B
 content:
     items: '@self.modular'
     order:
-        by: default
-        dir: asc
         custom:
             - _showcase
             - _spielt
@@ -18,4 +16,3 @@ body_classes: 'modular header-image fullwidth'
 menu: Home
 onpage_menu: true
 ---
-

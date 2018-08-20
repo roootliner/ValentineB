@@ -1,6 +1,5 @@
 ---
 title: KONTAKT
-media_order: 07_ivoN.jpg
 template: modular/form
 form:
     name: HIRE
