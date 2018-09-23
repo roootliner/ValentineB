@@ -1,4 +1,14 @@
 ---
+title: TERMINE
+content:
+    items:
+        - '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true
 image_align: left
 backcolor: '#3e51db'
 ---
