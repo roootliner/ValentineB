@@ -1,5 +1,6 @@
 ---
 title: TERMINE
+published: true
 content:
     items:
         - '@self.children'
