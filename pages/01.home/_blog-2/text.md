@@ -5,7 +5,7 @@ backcolor: '#3e51db'
 
 ## **Demnächst …**
 
-valentine.B in Halle (geschlossene Veranstaltung)<br>am 24.08.2018<br>
+valentine.B im Saalekiez (geschlossenes Veranstaltung)<br>am 29.09.2018<br>
 
 ## **und dann …**
 
