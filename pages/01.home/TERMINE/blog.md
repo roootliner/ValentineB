@@ -2,13 +2,14 @@
 title: TERMINE
 published: true
 content:
-    items: '- ''@self.children'''
-    limit: '5'
+    items:
+        - '@self.children'
+    limit: 5
     order:
         by: date
         dir: desc
-    pagination: '1'
-    url_taxonomy_filters: '1'
+    pagination: true
+    url_taxonomy_filters: true
 image_align: left
 backcolor: '#3e51db'
 ---
