@@ -15,7 +15,7 @@ content:
 
 ## **Demnächst …**
 
-valentine.B im Saalekiez (geschlossenes Veranstaltung)<br>am 29.09.2018<br>
+valentine.B im Saalekiez (geschlossene Veranstaltung)<br>am 29.09.2018<br>
 
 ## **und dann …**
 
