@@ -9,7 +9,7 @@ content:
             - _ist
             - _listen
             - _blog
-            - _blog-2
+            - _termine
             - _hire
             - _impressum
 body_classes: 'modular header-image fullwidth'

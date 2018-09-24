@@ -1,5 +1,6 @@
 ---
-title: TERMINE
+image_align: left
+backcolor: '#3e51db'
 published: true
 content:
     items:
@@ -10,8 +11,6 @@ content:
         dir: desc
     pagination: true
     url_taxonomy_filters: true
-image_align: left
-backcolor: '#3e51db'
 ---
 
 ## **Demnächst …**
