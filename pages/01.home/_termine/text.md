@@ -1,8 +1,8 @@
 ---
-titel: TERMINE
 image_align: left
 backcolor: '#3e51db'
 published: true
+titel: TERMINE
 content:
     items:
         - '@self.children'
