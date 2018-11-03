@@ -5,7 +5,7 @@ backcolor: '#3e51db'
 
 ## **Demnächst …**
 
-valentine.B im Brohmers "Come On In"<br>am 24.11.2018<br>
+valentine.B im Brohmers "Come On In"<br>am 23.11.2018<br>
 
 ## **und dann …**
 
