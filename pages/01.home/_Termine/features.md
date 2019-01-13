@@ -5,8 +5,10 @@ backcolor: '#3e51db'
 
 ## **Demnächst …**
 
-valentine.B bei LINC in der Moritzbastei<br>im Januar 2019<br>geschlossene Veranstaltung
+valentine.B bei LINC in der Moritzbastei<br>am 24.1.2019<br>geschlossene Veranstaltung
 
 ## **und dann …**
 
 valentine.B bei Luis<br>
+
+valentine.B und die Kunstpädagogen<br>am 30.3.2019 im Volkspark<br>geschlossene Veranstaltung
