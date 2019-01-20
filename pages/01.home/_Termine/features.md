@@ -9,6 +9,6 @@ valentine.B bei LINC<br>am 24.1.2019 in der Moritzbastei/Leipzig<br>geschlossene
 
 ## **und dann …**
 
-valentine.B bei Luis<br>
+valentine.B bei Luis<br>abends am 2.2.2019
 
 valentine.B und die Kunstpädagogen<br>am 30.3.2019 im Volkspark/Halle<br>geschlossene Veranstaltung
