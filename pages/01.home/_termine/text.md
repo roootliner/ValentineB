@@ -1,4 +1,5 @@
 ---
+title: TERMINE
 image_align: left
 backcolor: '#3e51db'
 ---
@@ -9,4 +10,4 @@ valentine.B und die Kunstpädagogen<br>am 30.3.2019 im Volkspark/Halle<br>geschl
 
 ## **und dann …**
 
-valentine.B übt
+valentine.B übt fleißig
