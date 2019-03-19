@@ -1,0 +1,14 @@
+email: eckartroeber@gmx.de
+fullname: Eckart
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$GUzmBeQDqQqWefyFt5Mlc.exoOX95tDO3CgjBA2mSx4GZNUHXLAlq
+language: en
+login_attempts: {  }
+twofa_secret: FE66BOJIGDHTUWWT64JT5MXD35AWLC2I
