@@ -9,6 +9,7 @@ valentine.B und die Kunstpädagogen<br>am 30.3.2019 im Volkspark/Halle<br>geschl
 
 ## **und dann …**
 
-valentine.B übt fleißigvalentine.B und die Kunstpädagogen<br>am 30.3.2019 im Volkspark/Halle<br>geschlossene Veranstaltung
+valentine.B und die Kunstpädagogen<br>am 11.5.2019, 17:30 in der Moritzburg/Halle
+valentine.B und die Architekten<br>am 25.5.2019 im Volkspark/Halle<br>geschlossene Veranstaltung
 
 
