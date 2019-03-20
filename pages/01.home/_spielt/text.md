@@ -1,5 +1,4 @@
 ---
-title: MUSIK
 image_align: left
 backcolor: '#fa685a'
 ---
