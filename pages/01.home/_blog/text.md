@@ -4,8 +4,7 @@ image_align: left
 backcolor: '#090504'
 ---
 
-## **valentine.B wünscht…**
+## **valentine.B is looking for inspiration…**
 
-… Euch allen einen entspannten Start in das neue Jahr 2019!  
+… an der Unstrut, in St.Petersburg, in Teheran, in Seoul und in Rollsdorf!  
 
-Immer schön locker bleiben. Rhythmische Bewegung üben. Und Portugiesisch lernen… 
