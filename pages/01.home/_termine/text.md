@@ -6,10 +6,10 @@ backcolor: '#3e51db'
 
 ## **Demnächst …**
 
-valentine.B und die Kunstpädagogen<br>am 30.3.2019 im Volkspark/Halle<br>geschlossene Veranstaltung
+valentine.B beim Hafenmeister<br>am 22.6.2019 in Halle<br>geschlossene Veranstaltung
 
 ## **und dann …**
 
-valentine.B in der Nacht der Museen<br>am 11.5.2019, 17:30 in der Moritzburg/Halle<br>
-
-valentine.B und die Architekten<br>am 25.5.2019 im Volkspark/Halle<br>geschlossene Veranstaltung
+valentine.B macht Sommerferien<br>
+valentine.B erkundet K-Pop und SeoulJazz in Korea<br>
+valentine.B im Pierre Gras/Halle im Herbst
