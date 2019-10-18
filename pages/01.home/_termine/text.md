@@ -6,8 +6,10 @@ backcolor: '#3e51db'
 
 ## **Demnächst …**
 
-valentine.B auf der Trabrennbahn<br>am 12.9.2019 in Leipzig<br>geschlossene Veranstaltung
+valentine.B im 7gramm<br>am 26.10.2019 in Halle<br>geschlossene Veranstaltung
 
 ## **und dann …**
 
+valentine.B im Volkspark am 9.11.2019<br>geschlossene Veranstaltung<br>
+valentine.B im Bella SoSo am 30.11.2019<br>geschlossene Veranstaltung<br>
 valentine.B im Pierre Grasse/Halle im Herbst 2019
