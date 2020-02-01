@@ -10,4 +10,4 @@ valentine.B im Pierre Grasse/Halle am 1. 2. 2020 (entfällt wegen Krankheit)<br>
 
 ## **und dann …**
 
-valentine.B im März<br>
+valentine.B im Februar, März, April (Termine in Arbeit)<br>
