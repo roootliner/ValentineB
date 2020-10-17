@@ -6,9 +6,9 @@ backcolor: '#3e51db'
 
 ## **Demnächst …**
 
-valentine.B auf der Schönburg am 4. 9. 2020 <br>
+valentine.B im Hafenmeister am 10. 7. 2021 <br>
 
 ## **und dann …**
 
-valentine.B spielt (geschlossene Veranstaltung): <br>
-in der Carnegie Hall <br>
+valentine.B holt den ganzen Spaß nach: <br>
+in Halle <br>
