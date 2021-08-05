@@ -6,9 +6,10 @@ backcolor: '#3e51db'
 
 ## **Demnächst …**
 
-valentine.B im Hafenmeister am 10. 7. 2021 <br>
+valentine.B am 24. 9. 2021 <br>
+zur Premierenfeier "art*house"<br>
 
 ## **und dann …**
 
-valentine.B holt den ganzen Spaß nach: <br>
+valentine.B am 19.11.2021<br>
 in Halle <br>
